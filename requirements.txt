@@ -1,0 +1,8 @@
+﻿tensorflow>=2.12
+numpy
+matplotlib
+scikit-learn
+librosa
+pandas
+tqdm
+ipython

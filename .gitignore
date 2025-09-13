@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Local envs
+env/
+venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Keras / TF checkpoints
+checkpoint
+*.ckpt
+
+# Large model file
+model.h5
+
+# Raw dataset (uncomment to include dataset)
+# Malayalam_Songs/
+# noise/
